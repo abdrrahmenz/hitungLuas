@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeRefreshandLoadMore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_bookmark">Bookmark</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Kamu ada di tab 1</string>
+    <string name="tab_2">Kamu ada di tab 2</string>
+</resources>
